@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87485459-651F-462D-968F-5E6AA04BFF59}|CoinGecko.Tests\\CoinGecko.Tests.csproj|c:\\users\\shane\\source\\repos\\coingecko\\coingecko.tests\\apie2etests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87485459-651F-462D-968F-5E6AA04BFF59}|CoinGecko.Tests\\CoinGecko.Tests.csproj|solutionrelative:coingecko.tests\\apie2etests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87485459-651F-462D-968F-5E6AA04BFF59}|CoinGecko.Tests\\CoinGecko.Tests.csproj|c:\\users\\shane\\source\\repos\\coingecko\\coingecko.tests\\coingecko.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{87485459-651F-462D-968F-5E6AA04BFF59}|CoinGecko.Tests\\CoinGecko.Tests.csproj|solutionrelative:coingecko.tests\\coingecko.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162EA0F1-429F-4D7D-97A3-B5F7F5CD972C}|CoinGecko\\CoinGecko.csproj|c:\\users\\shane\\source\\repos\\coingecko\\coingecko\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162EA0F1-429F-4D7D-97A3-B5F7F5CD972C}|CoinGecko\\CoinGecko.csproj|solutionrelative:coingecko\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162EA0F1-429F-4D7D-97A3-B5F7F5CD972C}|CoinGecko\\CoinGecko.csproj|c:\\users\\shane\\source\\repos\\coingecko\\coingecko\\coingeckoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162EA0F1-429F-4D7D-97A3-B5F7F5CD972C}|CoinGecko\\CoinGecko.csproj|solutionrelative:coingecko\\coingeckoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162EA0F1-429F-4D7D-97A3-B5F7F5CD972C}|CoinGecko\\CoinGecko.csproj|c:\\users\\shane\\source\\repos\\coingecko\\coingecko\\crypto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162EA0F1-429F-4D7D-97A3-B5F7F5CD972C}|CoinGecko\\CoinGecko.csproj|solutionrelative:coingecko\\crypto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162EA0F1-429F-4D7D-97A3-B5F7F5CD972C}|CoinGecko\\CoinGecko.csproj|c:\\users\\shane\\source\\repos\\coingecko\\coingecko\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{162EA0F1-429F-4D7D-97A3-B5F7F5CD972C}|CoinGecko\\CoinGecko.csproj|solutionrelative:coingecko\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162EA0F1-429F-4D7D-97A3-B5F7F5CD972C}|CoinGecko\\CoinGecko.csproj|c:\\users\\shane\\source\\repos\\coingecko\\coingecko\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{162EA0F1-429F-4D7D-97A3-B5F7F5CD972C}|CoinGecko\\CoinGecko.csproj|solutionrelative:coingecko\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162EA0F1-429F-4D7D-97A3-B5F7F5CD972C}|CoinGecko\\CoinGecko.csproj|c:\\users\\shane\\source\\repos\\coingecko\\coingecko\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{162EA0F1-429F-4D7D-97A3-B5F7F5CD972C}|CoinGecko\\CoinGecko.csproj|solutionrelative:coingecko\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162EA0F1-429F-4D7D-97A3-B5F7F5CD972C}|CoinGecko\\CoinGecko.csproj|c:\\users\\shane\\source\\repos\\coingecko\\coingecko\\pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{162EA0F1-429F-4D7D-97A3-B5F7F5CD972C}|CoinGecko\\CoinGecko.csproj|solutionrelative:coingecko\\pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162EA0F1-429F-4D7D-97A3-B5F7F5CD972C}|CoinGecko\\CoinGecko.csproj|c:\\users\\shane\\source\\repos\\coingecko\\coingecko\\pages\\details.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{162EA0F1-429F-4D7D-97A3-B5F7F5CD972C}|CoinGecko\\CoinGecko.csproj|solutionrelative:coingecko\\pages\\details.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162EA0F1-429F-4D7D-97A3-B5F7F5CD972C}|CoinGecko\\CoinGecko.csproj|c:\\users\\shane\\source\\repos\\coingecko\\coingecko\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{162EA0F1-429F-4D7D-97A3-B5F7F5CD972C}|CoinGecko\\CoinGecko.csproj|solutionrelative:coingecko\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162EA0F1-429F-4D7D-97A3-B5F7F5CD972C}|CoinGecko\\CoinGecko.csproj|c:\\users\\shane\\source\\repos\\coingecko\\coingecko\\pages\\search.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{162EA0F1-429F-4D7D-97A3-B5F7F5CD972C}|CoinGecko\\CoinGecko.csproj|solutionrelative:coingecko\\pages\\search.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162EA0F1-429F-4D7D-97A3-B5F7F5CD972C}|CoinGecko\\CoinGecko.csproj|c:\\users\\shane\\source\\repos\\coingecko\\coingecko\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{162EA0F1-429F-4D7D-97A3-B5F7F5CD972C}|CoinGecko\\CoinGecko.csproj|solutionrelative:coingecko\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoinGecko.Tests",
+              "DocumentMoniker": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko.Tests\\CoinGecko.Tests.csproj",
+              "RelativeDocumentMoniker": "CoinGecko.Tests\\CoinGecko.Tests.csproj",
+              "ToolTip": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko.Tests\\CoinGecko.Tests.csproj",
+              "RelativeToolTip": "CoinGecko.Tests\\CoinGecko.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T14:09:04.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiE2ETests.cs",
+              "DocumentMoniker": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko.Tests\\ApiE2ETests.cs",
+              "RelativeDocumentMoniker": "CoinGecko.Tests\\ApiE2ETests.cs",
+              "ToolTip": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko.Tests\\ApiE2ETests.cs",
+              "RelativeToolTip": "CoinGecko.Tests\\ApiE2ETests.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:00:25.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "CoinGecko\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "CoinGecko\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T16:30:11.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "CoinGecko\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "CoinGecko\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T16:29:58.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "CoinGecko\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\Pages\\Home.razor",
+              "RelativeToolTip": "CoinGecko\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T16:28:46.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.razor",
+              "DocumentMoniker": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\Pages\\Details.razor",
+              "RelativeDocumentMoniker": "CoinGecko\\Pages\\Details.razor",
+              "ToolTip": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\Pages\\Details.razor",
+              "RelativeToolTip": "CoinGecko\\Pages\\Details.razor",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvzIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T16:28:35.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "About.razor",
+              "DocumentMoniker": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\Pages\\About.razor",
+              "RelativeDocumentMoniker": "CoinGecko\\Pages\\About.razor",
+              "ToolTip": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\Pages\\About.razor",
+              "RelativeToolTip": "CoinGecko\\Pages\\About.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T16:28:23.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\Program.cs",
+              "RelativeDocumentMoniker": "CoinGecko\\Program.cs",
+              "ToolTip": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\Program.cs",
+              "RelativeToolTip": "CoinGecko\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:27:15.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "CoinGecko\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "CoinGecko\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAmwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-10T16:30:43.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoinGeckoService.cs",
+              "DocumentMoniker": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\CoinGeckoService.cs",
+              "RelativeDocumentMoniker": "CoinGecko\\CoinGeckoService.cs",
+              "ToolTip": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\CoinGeckoService.cs",
+              "RelativeToolTip": "CoinGecko\\CoinGeckoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:26:22.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Crypto.cs",
+              "DocumentMoniker": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\Crypto.cs",
+              "RelativeDocumentMoniker": "CoinGecko\\Crypto.cs",
+              "ToolTip": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\Crypto.cs",
+              "RelativeToolTip": "CoinGecko\\Crypto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:26:35.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Search.razor",
+              "DocumentMoniker": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\Pages\\Search.razor",
+              "RelativeDocumentMoniker": "CoinGecko\\Pages\\Search.razor",
+              "ToolTip": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\Pages\\Search.razor",
+              "RelativeToolTip": "CoinGecko\\Pages\\Search.razor",
+              "ViewState": "AgIAADEAAAAAAAAAAADwv08AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T16:29:00.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\App.razor",
+              "RelativeDocumentMoniker": "CoinGecko\\App.razor",
+              "ToolTip": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\App.razor",
+              "RelativeToolTip": "CoinGecko\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T16:27:31.781Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+﻿@page "/search"
+@inject CoinGeckoService CoinGeckoService
+
+<h3>Top Cryptocurrencies</h3>
+
+<input type="text" @bind="searchQuery" @bind:event="oninput" placeholder="Search by name or symbol" class="form-control mb-3" @onkeyup="HandleKeyUp" />
+
+@if (filteredCryptos == null)
+{
+    <p>Loading...</p>
+}
+else if (filteredCryptos.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Symbol</th>
+                <th>Current Price</th>
+                <th>Market Cap</th>
+                <th>Details</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var crypto in filteredCryptos)
+            {
+                <tr>
+                    <td>@crypto.Name</td>
+                    <td>@crypto.Symbol?.ToUpper()</td>
+                    <td>@crypto.Current_price.ToString("C")</td>
+                    <td>@crypto.Market_cap.ToString("C")</td>
+                    <td>
+                        <!-- Redirect to CoinGecko's website -->
+                        <a href="https://www.coingecko.com/en/coins/@crypto.Id" target="_blank" class="btn btn-primary">
+                            View Details
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No cryptocurrencies found.</p>
+}
+
+@code {
+    private IEnumerable<Crypto>? cryptos;
+    private IEnumerable<Crypto>? filteredCryptos;
+    private string searchQuery = string.Empty;
+
+    protected override async Task OnInitializedAsync()
+    {
+        cryptos = await CoinGeckoService.GetCryptosAsync();
+        filteredCryptos = cryptos; // Initialize with all cryptos
+    }
+
+    private void FilterCryptos()
+    {
+        if (string.IsNullOrWhiteSpace(searchQuery))
+        {
+            filteredCryptos = cryptos;
+        }
+        else
+        {
+            filteredCryptos = cryptos?.Where(c =>
+                c.Name?.Contains(searchQuery, StringComparison.OrdinalIgnoreCase) == true ||
+                c.Symbol?.Contains(searchQuery, StringComparison.OrdinalIgnoreCase) == true);
+        }
+    }
+
+    private void HandleKeyUp(KeyboardEventArgs e)
+    {
+        if (e.Key == "Enter")
+        {
+            FilterCryptos();
+        }
+    }
+}

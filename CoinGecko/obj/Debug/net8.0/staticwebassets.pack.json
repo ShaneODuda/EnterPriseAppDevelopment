@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\obj\\Debug\\net8.0\\compressed\\niz36ie3y8.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CoinGecko.styles.css",
+      "PackagePath": "staticwebassets\\CoinGecko.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\wwwroot\\coin.jpg",
+      "PackagePath": "staticwebassets\\coin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Shane\\source\\repos\\CoinGecko\\CoinGecko\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CoinGecko.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CoinGecko.props",
+      "PackagePath": "build\\CoinGecko.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CoinGecko.props",
+      "PackagePath": "buildMultiTargeting\\CoinGecko.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CoinGecko.props",
+      "PackagePath": "buildTransitive\\CoinGecko.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
